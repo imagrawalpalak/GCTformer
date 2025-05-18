@@ -27,7 +27,7 @@ Experiments are conducted on three benchmark datasets: **BJ500**, **METR-LA**, a
 
 ## Datasets
 
-This google drive link can be used to download the data - https://drive.google.com/drive/folders/1OL8KlCkjwBRpfZi2sZxPsmFPum1CcbnG?usp=drive_link
+This google drive link can be used to download the datasets - https://drive.google.com/drive/folders/1OL8KlCkjwBRpfZi2sZxPsmFPum1CcbnG?usp=drive_link
 
 The following datasets are supported:
 - **BJ500**: Urban traffic data from Beijing, sampled every 5 minutes.
