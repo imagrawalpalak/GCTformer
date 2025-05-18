@@ -45,3 +45,27 @@ The following datasets are supported:
 ```bash
 git clone https://github.com/your-username/gctformer.git
 cd gctformer
+```
+
+## Results
+
+GCTformer consistently outperforms traditional models (ARIMA, VAR, SVR) and deep learning baselines (DCRNN, STGCN, GMAN, RGDAN) across all metrics and forecasting horizons.
+
+
+## Acknowledgements
+
+We gratefully acknowledge prior work on which this project builds:
+
+- [**DCRNN**: Diffusion Convolutional Recurrent Neural Network](https://github.com/liyaguang/DCRNN)  
+  Yaguang Li et al., "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting", ICLR 2018.
+
+- [**STGCN**: Spatio-Temporal Graph Convolutional Networks](https://github.com/nnzhan/Graph-WaveNet)  
+  Bing Yu et al., "Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting", IJCAI 2018.
+
+- [**GMAN**: Graph Multi-Attention Network](https://github.com/zhengchuanpan/GMAN)  
+  Chuanpan Zheng et al., "GMAN: A Graph Multi-Attention Network for Traffic Prediction", AAAI 2020.
+
+- [**RGDAN**: Random Graph Dual Attention Network](https://doi.org/10.1016/j.neunet.2024.106093)  
+  Li Zhang et al., "RGDAN: Random Graph Dual Attention Network for Spatio-Temporal Traffic Prediction", Neural Networks, 2024.
+
+
